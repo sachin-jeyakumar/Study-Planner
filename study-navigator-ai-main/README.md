@@ -98,52 +98,8 @@ study-navigator-ai-main/
 ├── tailwind.config.ts      # Tailwind CSS configuration
 └── tsconfig.json           # TypeScript configuration
 ```
-# Personalized Learning Copilot – Frontend Prototype
 
-An AI-powered **Personalized Learning Copilot** designed to help undergraduate STEM students plan, track, and adapt their study workflows for dense core courses.
 
----
-
-## Overview
-
-This repository contains the **frontend prototype** of the Personalized Learning Copilot, an agentic AI system built to support students studying challenging undergraduate core courses such as **Data Structures, Signals & Systems, and Thermodynamics**.
-
-The frontend provides a clean and intuitive interface for students to interact with AI-powered learning workflows, including study planning, question answering, quizzes, and progress tracking.
-
-The AI logic, orchestration, and adaptive behavior are handled by a backend system built using **n8n and LLM-based agents**. This repository focuses exclusively on the **user interface and experience layer**.
-
----
-
-## Features
-
-- Course material upload interface (PDFs, slides, syllabi)
-- Personalized study planner dashboard
-- Question & Answer interface powered by RAG (backend)
-- Adaptive quiz interaction screens
-- Progress and mastery visualization
-- Responsive and minimal UI for quick onboarding
-
----
-
-## System Context
-
-This frontend integrates with a backend system that includes:
-- n8n-based agent orchestration
-- Retrieval-Augmented Generation (RAG)
-- Adaptive quiz generation
-- Mastery tracking and reflection-based replanning
-
----
-
-## Tech Stack
-
-- TypeScript
-- CSS
-- Vercel (deployment)
-
----
-
-## Project Structure
 ## 🎨 Key Components
 
 - **ChatInterface**: AI-powered chat for study assistance
@@ -170,9 +126,6 @@ The project uses several configuration files:
 - `tsconfig.json` - TypeScript compiler options
 - `components.json` - shadcn/ui component configuration
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📝 License
 
@@ -182,7 +135,7 @@ This project is open source and available under the MIT License.
 
 **Sachin Jeyakumar**
 
-- GitHub: [@sachin-jeyakumar](https://github.com/sachin-jeyakumar)
+- GitHub: [@sachin-jeyakumar](https://github.com/sachin-jeyakumar),[@Hemavarshini07](https://github.com/Hemavarshini07),[@harshinisanjana](https://github.com/harshinisanjana)
 
 ## 🙏 Acknowledgments
 
