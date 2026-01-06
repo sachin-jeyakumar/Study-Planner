@@ -14,15 +14,20 @@ An intelligent study planning application built with React, TypeScript, and shad
 
 ## 🛠️ Tech Stack
 
+- **Orchestration & Agent Logic:** n8n  
+- **LLM Provider:** OpenAI  
+- **Backend:** Python  
+- **AI/ML:** Large Language Models (LLM), Retrieval-Augmented Generation (RAG)  
+- **Vector Store:** Chroma  
+- **Database:** Supabase  
+- **Parsing & Chunking:** PDF loaders  
+- **Frontend:** React  
+- **Storage:** JSON  
 - **Frontend Framework**: React 18
 - **Language**: TypeScript
 - **Build Tool**: Vite
 - **UI Components**: shadcn/ui (Radix UI primitives)
 - **Styling**: Tailwind CSS
-- **Animations**: Framer Motion
-- **Routing**: React Router DOM
-- **State Management**: TanStack Query
-- **Form Handling**: React Hook Form + Zod
 - **Charts**: Recharts
 - **Icons**: Lucide React
 
