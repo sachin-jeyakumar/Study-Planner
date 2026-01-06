@@ -82,9 +82,4 @@ The project uses several configuration files:
 - `tsconfig.json` - TypeScript compiler options
 - `components.json` - shadcn/ui component configuration
 
-## 🙏 Acknowledgments
-
-- Built with [shadcn/ui](https://ui.shadcn.com/)
-- Icons by [Lucide](https://lucide.dev/)
-- Powered by [Vite](https://vitejs.dev/)
 
