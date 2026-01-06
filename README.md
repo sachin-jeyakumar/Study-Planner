@@ -1,5 +1,4 @@
-# Study Planner
-
+# Personalized Learning Copilot for Core Courses
 An intelligent study planning application built with React, TypeScript, and shadcn/ui that helps students organize their learning journey with AI-powered features.
 
 ## 🚀 Features
